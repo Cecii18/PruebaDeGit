@@ -1,0 +1,9 @@
+p {
+    color: brown;
+    width: 300px;
+}
+/**con esto se agrega un comentario*/
+h1 {
+    font-weight: bold;
+    color: grey;
+}
